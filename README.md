@@ -162,7 +162,7 @@ ALTER TABLE order_items_dataset ADD FOREIGN KEY (seller_id) REFERENCES sellers_d
 ## 📂 **STAGE 2: Data Analysis**
 
 ### **1. Annual Customer Activity Growth**
-Pertumbuhan aktivitas pelanggan tahunan dapat dianalisis dari Monthly active user (MAU), pelanggan baru, pelanggan dengan repeat order, dan rata-rata order oleh pelanggan.
+Annual customer activity growth can be analyzed from Monthly active users (MAU), new customers, customers with repeat orders, and average orders by customers.
 
 <details>
   <summary>Click to view Queries</summary>
