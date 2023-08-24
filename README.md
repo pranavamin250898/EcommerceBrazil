@@ -165,7 +165,7 @@ ALTER TABLE order_items_dataset ADD FOREIGN KEY (seller_id) REFERENCES sellers_d
 Pertumbuhan aktivitas pelanggan tahunan dapat dianalisis dari Monthly active user (MAU), pelanggan baru, pelanggan dengan repeat order, dan rata-rata order oleh pelanggan.
 
 <details>
-  <summary>Click untuk melihat Queries</summary>
+  <summary>Click to view Queries</summary>
   
   ```sql
  use db4;
