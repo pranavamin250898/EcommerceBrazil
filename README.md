@@ -375,14 +375,17 @@ ORDER BY year;
 </details>
 
 <p align="center">
-Tabel 1. Results of Annual Customer Activity Growth Analysis  <br>
+Graph 1. Results of Annual Revenue Growth Analysis  <br>
   <kbd><img src="asset/activity.png" width=800px> </kbd> <br>
 </p>
+
+
+Annual customer activity growth can be analyzed from Monthly active users (MAU), new customers, customers with repeat orders, and average orders by customers.
 
 <br>
 <p align="center">
   <kbd><img src="asset/gambar_2_mau_x_newcust.png" width=600px> </kbd> <br>
-  Gambar 2. Grafik Rata-rata MAU dan Pelanggan Baru
+  Graph 2. Top Revenue By Product Category Each Year
 </p>
 
 Secara keseluruhan perusahaan mengalami peningkakatan Monthly Active User serta pelanggan baru setiap tahunnya. Peningkatan yang signifikan terjadi pada tahun 2016 ke 2017, hal ini dikarenakan data transaksi pada tahun 2016 dimulai pada bulan September. <br>
