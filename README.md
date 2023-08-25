@@ -387,7 +387,10 @@ Graph 1. Results of Annual Revenue Growth Analysis  <br>
   Graph 2. Top Revenue By Product Category Each Year
 </p>
 
-Secara keseluruhan perusahaan mengalami peningkakatan Monthly Active User serta pelanggan baru setiap tahunnya. Peningkatan yang signifikan terjadi pada tahun 2016 ke 2017, hal ini dikarenakan data transaksi pada tahun 2016 dimulai pada bulan September. <br>
+Overall the company experienced an increase in Monthly Active Users and new customers every year. A significant increase occurred from 2016 to 2017, this is because transaction data in 2016 started in September.
+
+
+<br>
 <br>
 <br>
 
