@@ -380,7 +380,6 @@ Graph 1. Results of Annual Revenue Growth Analysis  <br>
 </p>
 
 
-Annual customer activity growth can be analyzed from Monthly active users (MAU), new customers, customers with repeat orders, and average orders by customers.
 
 <br>
 <p align="center">
