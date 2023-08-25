@@ -386,6 +386,10 @@ Graph 1. Results of Annual Revenue Growth Analysis  <br>
 Overall the company experienced an increase in Monthly Active Users and new customers every year. A significant increase occurred from 2016 to 2017, this is because transaction data in 2016 started in September.
 
 
+A significant increase also occurred in the number of customers who made repeat orders from 2016 to 2017. However, in 2018 there was a slight decrease.
+
+From the analysis and graph above, it can be seen that the average customer each year tends to only order once, meaning that the majority of customers do not make repeat orders.
+
 <br>
 
 
@@ -395,10 +399,10 @@ Overall the company experienced an increase in Monthly Active Users and new cust
 
 ### **2. Annual Product Category Quality**
 
-Kualitas kategori produk tahunan dapat dianalisis dari total pendapatan, total pembatalan pesanan, kategori top produk dan kategori produk yang paling banyak dibatalkan.
+The quality of annual product categories can be analyzed from total revenue, total order cancellations, top product categories and product categories with the most cancellations.
 
 <details>
-  <summary>Click disini untuk melihat Queries</summary>
+  <summary>Click here to view Queries</summary>
 
   ```sql
  --1) Membuat tabel yang berisi informasi pendapatan/revenue perusahaan total untuk masing-masing tahun
@@ -496,42 +500,42 @@ GROUP BY 1, 2, 3, 4, 5, 6, 7;
 </details>
 
 <p align="center">
-  Tabel 2. Hasil Analisis Total Kategori Produk Tahunan <br>
+  Table 2. Analysis Results of Total Annual Product Categories <br>
   <kbd><img src="asset/produk.png" width=1000px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
   <kbd><img src="asset/gambar_5_total_revenue.png" width=600px> </kbd> <br>
-  Gambar 5. Grafik Total Revenue Pertahun
+  Graph 5. Graph of Annual Total Revenue
 </p>
 
-Secara keseluruhan revenue perusahaan meningkat setiap tahun. <br>
+Overall, the company's revenue increases every year. <br>
 <br>
 <br>
 
 <p align="center">
   <kbd><img src="asset/gambar_6_top.png" width=600px> </kbd> <br>
-  Gambar 6. Grafik Total Revenue Top Produk Pertahun
+  Graph 6. Graph of Total Revenue Top Products per year
 </p>
 
-Revenue yang dihasilkan dari top produk juga meningkat untuk setiap tahunnya. Selain itu setiap tahunnya memiliki jenis kategori top produk yang berbeda. Pada tahun 2018, perusahaan menghasilkan revenue paling tinggi dengan jenis karegori top produk kesehatan dan kecantikan (`health_beauty`). <br>
+Revenue generated from top products also increases every year. In addition, each year has a different type of top product category. In 2018, the company generated the highest revenue with the top category of health and beauty products (`health_beauty`).<br>
 <br>
 <br>
 
 <p align="center">
   <kbd><img src="asset/gambar_7_cenceled.png" width=600px> </kbd> <br>
-  Gambar 7. Grafik Total Revenue Top Produk Pertahun
+  Graph 7. Graph of Total Revenue Top Products per year
 </p>
 
-Produk yang sering dibatalkan oleh pelanggan untuk setiap tahunnya juga memiliki jenis kategori yang berbeda dan terus mengalami kenaikan. Tahun 2018 memiliki jumlah produk yang dibatalkan paling banyak dan memiliki jenis kategori yang sama dengan top produk yang paling banyak menghasilkan revenue. Hal tersebut dapat diduga karena jenis kategori kesehatan dan kecantikan sedang mendominasi pasar.  <br>
+Products that are frequently canceled by customers every year also have different types of categories and continue to increase. 2018 had the most number of canceled products and was in the same category as the top products that generated the most revenue. This can be expected because the types of health and beauty categories are dominating the market.  <br>
 <br>
 
 ### **3. Annual Payment Type Usage**
-Tipe pembayaran yang digunakan pelanggan dapat dianalisis dari jenis pembayaran favorit dan jumlah penggunaan untuk setiap jenis pembayaran pertahun. 
+The type of payment that customers use can be analyzed from their favorite payment types and the amount of usage for each type of payment per year. 
 
 <details>
-  <summary>Click untuk melihat Queries</summary>
+  <summary>Click to view Queries</summary>
 
   ```sql
 -- 1) Menampilkan jumlah penggunaan masing-masing tipe pembayaran secara all time diurutkan dari yang terfavorit
@@ -563,17 +567,17 @@ ORDER BY 2 DESC;
 </details>
 
 <p align="center">
-  Tabel 3. Hasil Analisis Tipe Pembayaran yang Digunakan Pelanggan <br>
+  Table 3. Results of Analysis of the Type of Payment Used by Customers <br>
   <kbd><img src="asset/payment.png" width=600px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
   <kbd><img src="asset/gambar_8_tipe_pembayaran.png" width=600px> </kbd> <br>
-  Gambar 8. Grafik Tipe Pembayaran yang Digunakan Pelanggan Pertahun
+  Graph 8. Graph of Payment Types Used by Customers Annually
 </p>
 
-Mayoritas pelanggan melakukan pembayaran menggunakan kartu kredit dan cenderung mengalami peningkatan setiap tahunnya. Pembayaran menggunakan voucher meningkat pada tahun 2017, namun menurun pada tahun 2018. Hal tersebut dapat diduga karena ketersediaan voucher yang diberikan perusahaan lebih sedikit dari tahun lalu. Disisi lain, pelanggan yang melakukan pembayaran dengan kartu debit meningkat secara signifikan pada tahun 2018. Hal tersebut dapat diduga karena kemungkinan terdapat promosi pembayaran untuk kartu debit, sehingga banyak pelanggan yang tertarik untuk menggunakan metode tersebut.
+The majority of customers make payments using credit cards and tend to increase every year. Payments using vouchers increased in 2017, but decreased in 2018. This is to be expected because the availability of vouchers provided by companies was less than last year. On the other hand, customers making payments with debit cards increased significantly in 2018. This is to be expected because there may be payment promotions for debit cards, so many customers are interested in using this method.
 <br>
 <br>
 
@@ -581,8 +585,8 @@ Mayoritas pelanggan melakukan pembayaran menggunakan kartu kredit dan cenderung 
 ---
 
 ## 📂 **STAGE 3: Summary**
-- Dilihat dari analisis pertumbuhan tahunan pelanggan dapat disimpulkan bahwa **jumlah pelanggan baru dan aktif (MAU) meningkat setiap tahunnya**, namun pelanggan cenderung tidak repeat order atau hanya melakukan pembelian satu kali. Dari hal tersebut perlu adanya strategi bisnis untuk meningkatkan minat pelanggan agar melakukan pembelian misalnya dengan pemberian promo, *call to action*, dan lain sebagainya.
-- Dari analisis kualitas produk tahunan, **revenue terus meningkat dengan kategori produk yang berbeda setiap tahunnya**. Kategori **kesehatan dan kecantikan** menjadi produk best seller sekaligus produk yang paling sering dibatalkan pembeliannya pada tahun 2018. Berdasarkan hasil analisis ini dapat dilakukan strategi bisnis berupa riset produk apa yang akan menjadi trend di tahun selanjutnya, sehingga diharapkan dapat memperbesar peluang perusahaan mendapatkan revenue.
-- **Kartu kredit** merupakan tipe pembayaran mayoritas yang digunakan oleh pelanggan.
+Judging from the annual customer growth analysis, it can be concluded that **the number of new and active customers (MAU) is increasing every year**, but customers tend not to repeat orders or only make one-time purchases. From this it is necessary to have a business strategy to increase customer interest in making purchases, for example by giving promos, *call to action*, and so on.
+- From the annual product quality analysis, **revenue continues to increase with different product categories every year**. The **health and beauty** category became the best selling product as well as the most frequently canceled product in 2018. Based on the results of this analysis a business strategy can be carried out in the form of product research which will become a trend in the following year, so that it is expected to increase the company's chances of getting revenue.
+- **Credit Card** is the majority type of payment used by customers.
 
 
