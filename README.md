@@ -573,7 +573,7 @@ ORDER BY 2 DESC;
 
 <br>
 <p align="center">
-  <kbd><img src="asset/gambar_8_tipe_pembayaran.png" width=600px> </kbd> <br>
+  <kbd><img src="asset/payment_graph.png" width=600px> </kbd> <br>
   Graph 8. Graph of Payment Types Used by Customers Annually
 </p>
 
