@@ -515,7 +515,7 @@ Overall, the company's revenue increases every year. <br>
 <br>
 
 <p align="center">
-  <kbd><img src="asset/gambar_6_top.png" width=600px> </kbd> <br>
+  <kbd><img src="asset/Productbyrevenue.png" width=600px> </kbd> <br>
   Graph 6. Graph of Total Revenue Top Products per year
 </p>
 
@@ -524,7 +524,7 @@ Revenue generated from top products also increases every year. In addition, each
 <br>
 
 <p align="center">
-  <kbd><img src="asset/gambar_7_cenceled.png" width=600px> </kbd> <br>
+  <kbd><img src="asset/cancelled_graph.png" width=600px> </kbd> <br>
   Graph 7. Graph of Total Revenue Top Products per year
 </p>
 
