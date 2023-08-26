@@ -1,9 +1,9 @@
 # 💰 **Analyzing E-Commerce Business Performance with SQL**
 <br>
 
-**Tool** : PostgreSQL <br> 
+**Tool** : MySQL Workbench <br> 
 **Visualization** : Microsoft Excel <br>
-**Dataset** : Rakamin Academy - [Ecommerce Data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+**Dataset** : - [Ecommerce Data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 <br>
 <br>
 
