@@ -7,6 +7,16 @@
 <br>
 <br>
 
+
+
+**Result of Dashboard :** <br>
+<p align="center">
+  <kbd><img src="asset/Dashboard.png" width=800px> </kbd> <br>
+  Graph 1. Dashboard
+</p>
+<br>
+<br>
+
 **Table of Contents**
 - [STAGE 0: Problem Statement](https://github.com/pranavamin250898/EcommerceBrazil#-stage-0-problem-statement)
 	- [Background Story](https://github.com/pranavamin250898/EcommerceBrazil#background-story)
@@ -149,7 +159,7 @@ ALTER TABLE order_items_dataset ADD FOREIGN KEY (seller_id) REFERENCES sellers_d
   ```
 </details>
 
-**Hasil ERD :** <br>
+**Result of ERD :** <br>
 <p align="center">
   <kbd><img src="asset/gambar_1_ERD.png" width=800px> </kbd> <br>
   Gambar 1. Entity Relationship Diagram
