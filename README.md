@@ -162,7 +162,7 @@ ALTER TABLE order_items_dataset ADD FOREIGN KEY (seller_id) REFERENCES sellers_d
 **Result of ERD :** <br>
 <p align="center">
   <kbd><img src="asset/gambar_1_ERD.png" width=800px> </kbd> <br>
-  Gambar 1. Entity Relationship Diagram
+  Graph 2. Entity Relationship Diagram
 </p>
 <br>
 <br>
@@ -385,7 +385,7 @@ ORDER BY year;
 </details>
 
 <p align="center">
-Graph 1. Results of Annual Revenue Growth Analysis  <br>
+Table 1. Results of Annual Revenue Growth Analysis  <br>
   <kbd><img src="asset/activity.png" width=800px> </kbd> <br>
 </p>
 
@@ -517,7 +517,7 @@ GROUP BY 1, 2, 3, 4, 5, 6, 7;
 <br>
 <p align="center">
   <kbd><img src="asset/revenueLine.png" width=600px> </kbd> <br>
-  Graph 5. Graph of Annual Total Revenue
+  Graph 3. Graph of Annual Total Revenue
 </p>
 
 Overall, the company's revenue increases every year. <br>
@@ -526,7 +526,7 @@ Overall, the company's revenue increases every year. <br>
 
 <p align="center">
   <kbd><img src="asset/Productbyrevenue.png" width=600px> </kbd> <br>
-  Graph 6. Graph of Total Revenue Top Products per year
+  Graph 4. Graph of Total Revenue Top Products per year
 </p>
 
 Revenue generated from top products also increases every year. In addition, each year has a different type of top product category. In 2018, the company generated the highest revenue with the top category of health and beauty products (`health_beauty`).<br>
@@ -535,7 +535,7 @@ Revenue generated from top products also increases every year. In addition, each
 
 <p align="center">
   <kbd><img src="asset/cancelled_graph.png" width=600px> </kbd> <br>
-  Graph 7. Graph of Total Revenue Top Products per year
+  Graph 5. Graph of Total Revenue Top Products per year
 </p>
 
 Products that are frequently canceled by customers every year also have different types of categories and continue to increase. 2018 had the most number of canceled products and was in the same category as the top products that generated the most revenue. This can be expected because the types of health and beauty categories are dominating the market.  <br>
@@ -584,7 +584,7 @@ ORDER BY 2 DESC;
 <br>
 <p align="center">
   <kbd><img src="asset/payment_graph.png" width=600px> </kbd> <br>
-  Graph 8. Graph of Payment Types Used by Customers Annually
+  Graph 6. Graph of Payment Types Used by Customers Annually
 </p>
 
 The majority of customers make payments using credit cards and tend to increase every year. Payments using vouchers increased in 2017, but decreased in 2018. This is to be expected because the availability of vouchers provided by companies was less than last year. On the other hand, customers making payments with debit cards increased significantly in 2018. This is to be expected because there may be payment promotions for debit cards, so many customers are interested in using this method.
