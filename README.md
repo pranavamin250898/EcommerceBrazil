@@ -8,16 +8,16 @@
 <br>
 
 **Table of Contents**
-- [STAGE 0: Problem Statement](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#-stage-0:-problem-statement)
-	- [Background Story](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#background-story)
-	- [Objective](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#objective)
-- [STAGE 1: Data Preparation](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#-stage-1:-Data-Preparation)
-	- [Create Database and ERD](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#create-database-and-erd)
-- [STAGE 2: Data Analysis](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#-stage-2:-data-analysis)
-	- [Annual Customer Activity Growth](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#1-annual-customer-activity-growth)
-	- [Annual Product Category Quality](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#2-annual-product-category-quality)
-	- [Annual Payment Type Usage](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#3-annual-payment-type-usage)
-- [STAGE 3: Summary](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#-stage-3:-summary)
+- [STAGE 0: Problem Statement](https://github.com/pranavamin250898/EcommerceBrazil#-stage-0-problem-statement)
+	- [Background Story](https://github.com/pranavamin250898/EcommerceBrazil#background-story)
+	- [Objective](https://github.com/pranavamin250898/EcommerceBrazil#objective)
+- [STAGE 1: Data Preparation](https://github.com/pranavamin250898/EcommerceBrazil#-stage-1-data-preparation)
+	- [Create Database and ERD](https://github.com/pranavamin250898/EcommerceBrazil#create-database-and-erd)
+- [STAGE 2: Data Analysis](https://github.com/pranavamin250898/EcommerceBrazil#-stage-2-data-analysis)
+	- [Annual Customer Activity Growth](https://github.com/pranavamin250898/EcommerceBrazil#1-annual-customer-activity-growth)
+	- [Annual Product Category Quality](https://github.com/pranavamin250898/EcommerceBrazil#2-annual-product-category-quality)
+	- [Annual Payment Type Usage](https://github.com/pranavamin250898/EcommerceBrazil#3-annual-payment-type-usage)
+- [STAGE 3: Summary](https://github.com/pranavamin250898/EcommerceBrazil#-stage-3-summary)
 <br>
 <br>
 
