@@ -2,7 +2,7 @@
 <br>
 
 **Tool** : MySQL Workbench <br> 
-**Visualization** : Microsoft Excel <br>
+**Visualization** : Tableau <br>
 **Dataset** : - [Ecommerce Data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 <br>
 <br>
