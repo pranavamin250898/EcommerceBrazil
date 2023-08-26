@@ -501,12 +501,12 @@ GROUP BY 1, 2, 3, 4, 5, 6, 7;
 
 <p align="center">
   Table 2. Analysis Results of Total Annual Product Categories <br>
-  <kbd><img src="asset/produk.png" width=1000px> </kbd> <br>
+  <kbd><img src="asset/revenue.png" width=1000px> </kbd> <br>
 </p>
 
 <br>
 <p align="center">
-  <kbd><img src="asset/gambar_5_total_revenue.png" width=600px> </kbd> <br>
+  <kbd><img src="asset/revenueLine.png" width=600px> </kbd> <br>
   Graph 5. Graph of Annual Total Revenue
 </p>
 
